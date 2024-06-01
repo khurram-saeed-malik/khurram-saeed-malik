@@ -1,19 +1,17 @@
 # Khurram Malik
 
-Working on modern technologies to construct scalable applications. I love to code, learn new programming languages and I'm constantly seeking for new problems to tackle. I've mainly keeping myself occupied lately with GCloud (AppEngine, Cloud SQL, etc.), KTOR, JetBrains Exposed, Flutter/Dart, SwiftUI & Jetpack Compose.
+🚀 Working on modern technologies to construct scalable applications. Passionate about coding, learning new programming languages, and constantly seeking new challenges to tackle. Recently, I've been diving deep into GCloud (AppEngine, Cloud SQL, etc.), KTOR, JetBrains Exposed, Flutter/Dart, SwiftUI, and Jetpack Compose.
 
-## Skills
+## 🛠️ Skills
 
-- Android (Jetpack Compose, Kotlin ❤️)
-- iOS (SwiftUI, Swift)
-- Flutter
-- Distributed Applications
-- Docker
-- AWS / GCloud
-- Computer Vision
-- AI & Deep Learning
+- **Android:** Jetpack Compose, Kotlin ❤️
+- **iOS:** SwiftUI, Swift
+- **Cross-Platform:** Flutter
+- **Backend:** Distributed Applications
+- **DevOps:** Docker, AWS, GCloud
+- **Specialties:** Computer Vision, AI & Deep Learning
 
-## Tools & Technologies
+## 🧰 Tools & Technologies
 
 <p align="left">
   <a href="https://developer.android.com/jetpack/compose">
@@ -39,28 +37,25 @@ Working on modern technologies to construct scalable applications. I love to cod
   </a>
 </p>
 
-## Github Stats
+## 📈 Github Stats
 
 <p align="left">
-  <a href="https://github.com/khurram-nexttier">
-    <img src="https://github-readme-stats.vercel.app/api?username=khurram-nexttier&show_icons=true" alt="Github Stats">
+  <a href="https://github.com/khurram-saeed-malik">
+    <img src="https://github-readme-stats.vercel.app/api?username=khurram-saeed-malik&show_icons=true" alt="Khurram's Github Stats">
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khurram-nexttier)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=khurram-saeed-malik)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khurram-nexttier&show_icons=true&locale=en&layout=compact" alt="khurram-nexttier" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khurram-saeed-malik&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-## Company
+## 📞 Contact
 
-- [NextTier](https://github.com/nexttier) 🇵🇰|🇩🇰
+- **E-mail:** [khurram@khurram-malik.com](mailto:khurram@khurram-malik.com)
+- **LinkedIn:** [Khurram Malik](http://linkedin.com/in/khurram-malik/)
 
-## Recent projects
+## 📅 Book an Appointment
 
-- **[Follow](https://follow-group.com/)**: Follow provides a platform solution to serve anyone working with fans, loyalty and storytelling. A solution designed to tell stories in a new to the world format. Where we combine text, sound design, video, pictures to give the audience a spetacular experience. First app released [Follow Elvis](https://follow-elvis.com/)
-
-## Contact
-
-- E-mail: khurram@nexttier.io
-- LinkedIn: <http://linkedin.com/in/khurram-malik/>
+- **Appointment Page:** [Schedule a Meeting](https://calendar.app.google/XKvDHbwxL49yPJkv9)
